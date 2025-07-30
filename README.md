@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhangi Suthrave</h1>
 <h3 align="center">A Solutions Architect with 18+ years in data engineering, cybersecurity, application integration, development, and automation.</h3>
 
-- 🔭 I’m currently working on [InfoSec-Focused Asset Intelligence](https://github.com/sudhangisuthrave/HW-Asset-Intelligence-And-Analytics)
+- 🔭 I’m currently working on [InfoSec-Focused Asset Intelligence And Analytics Project](https://github.com/sudhangisuthrave/HW-Asset-Intelligence-And-Analytics)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudhangisuthrave](https://github.com/sudhangisuthrave)
 
